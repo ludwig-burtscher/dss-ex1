@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/252537964.svg)](https://zenodo.org/badge/latestdoi/252537964)
+
 # Correlation of the development of COVID-19 cases/deaths and the Gold price
 
 The global Corona crisis 2020 not only has a huge impact on health systems around the world, but also on the economic situation. Gold is traditionally known to be a go-to asset in times of crisis and uncertainty and its price therefore usually increases when stock indices collapse. However, the Austrian newspaper Kurier published an article [1] claiming that current market activity during the Corona crisis contradicts this theory. They also state that the gold price will stabilize again in the medium term as this also happened on other occasions.

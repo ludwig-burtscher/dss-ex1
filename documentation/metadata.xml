@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<dc:identifier><!--TODO DOI--></dc:identifier>
+<dc:identifier>10.5281/zenodo.3741812</dc:identifier>
 <dc:title>Correlation of COVID-19 cases/deaths and the Gold price</dc:title>
 <dc:creator>Ludwig Burtscher (https://orcid.org/0000-0001-5453-8074)</dc:creator>
 <dc:subject>COVID-19 cases/deaths development correlation over time with Gold prices</dc:subject>
@@ -14,6 +14,6 @@
 <dc:language>eng</dc:language>
 <dc:coverage>first quarter 2020</dc:coverage>
 <dc:rights>Free access</dc:rights>
-<dc:relation><!--TODO maybe DOI of result data--></dc:relation>
+<dc:relation>10.5281/zenodo.3741831</dc:relation>
 
 </metadata>
