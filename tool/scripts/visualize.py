@@ -1,5 +1,6 @@
 import os
 import sys
+import datetime
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -7,8 +8,9 @@ import pandas as pd
 # arg1: preprocessed file filepath
 # arg2: output folder path
 
-data_filename = "data.csv"
-diagram_filename = "diagram.png"
+today = datetime.date.today().strftime("%Y%m%d")
+data_filename = today + "_data.csv"
+diagram_filename = today + "_diagram.png"
 
 plt.close("all")
 output_path = os.path.normpath(sys.argv[2])

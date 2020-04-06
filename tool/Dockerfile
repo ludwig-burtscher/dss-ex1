@@ -2,7 +2,7 @@ FROM python:3.7-slim
 
 RUN pip install pandas matplotlib
 WORKDIR /app
-COPY entrypoint.sh scripts /app/
+COPY entrypoint.sh scripts VERSION /app/
 RUN chmod +x /app/entrypoint.sh
 ENTRYPOINT ["/app/entrypoint.sh"]
 
