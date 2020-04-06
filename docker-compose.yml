@@ -8,7 +8,7 @@ services:
       - ./data/output:/app/data/output
     environment:
       - COVID_FILENAME=20200402_COVID-19.csv
-      - GOLD_FILENAME=20200403_GoldPrice.csv
+      - GOLD_FILENAME=20200403_Gold.csv
       - START_DATE=2020-01-01
       - END_DATE=2020-03-31
 
