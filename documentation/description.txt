@@ -1,0 +1,11 @@
+raw output:
+The raw data output per country is a CSV file with columns date,cases,deaths,price.
+"date" acts as an identifier of the record (there are not multiple records with the same date) and specifies the date, this record belongs to.
+"cases" and "deaths" are integers and represent the number of accumulated COVID-19 cases/deaths on the day given by "date" in this country.
+"price" is a float and represents the Gold price in US-Dollar at the FXCM market place (https://www.fxcm.com/uk/) on the day given by "date".
+
+diagram output:
+The x-axis describes the timeline of the analysis and is labeled with dates.
+The y-axis on the left side of the diagram describes the number of COVID-19 cases (red curve).
+The y-axis on the right side of the diagram describes the number of COVID-19 deaths (black curve).
+The second y-axis on the right side of the diagram (outside) describes the Gold price (green curve).

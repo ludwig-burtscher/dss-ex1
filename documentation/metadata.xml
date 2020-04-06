@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:identifier><!--TODO DOI--></dc:identifier>
+<dc:title>Correlation of COVID-19 cases/deaths and the Gold price</dc:title>
+<dc:creator>Ludwig Burtscher (https://orcid.org/0000-0001-5453-8074)</dc:creator>
+<dc:subject>COVID-19 cases/deaths development correlation over time with Gold prices</dc:subject>
+<dc:description>The tool provides an automated way of correlating COVID-19 cases and deaths in a given time interval with the gold price in the same interval.</dc:description>
+<dc:date>2020-04-06</dc:date>
+<dc:type>Software</dc:type>
+<dc:format>Pythonscript</dc:format>
+<dc:source>European Centre For Disease Prevention And Control (2020) "Sonraí faoi choróinvíreas COVID-19". Publications Office. doi: 10.2906/101099100099/1.</dc:source>
+<dc:source>ariva.de (2020), https://www.ariva.de/goldpreis-gold-kurs/historische_kurse?boerse_id=130&amp;currency=USD (data between 2020-01-01 and 2020-03-31)</dc:source>
+<dc:language>eng</dc:language>
+<dc:coverage>first quarter 2020</dc:coverage>
+<dc:rights>Free access</dc:rights>
+<dc:relation><!--TODO maybe DOI of result data--></dc:relation>
+
+</metadata>
